@@ -28,7 +28,7 @@ Check out my repositories for code samples, dashboards, and detailed documentati
 This GitHub isn’t just a portfolio—it’s a hub for collaboration and innovation. Whether you’re a recruiter seeking a proven analytics leader, a data enthusiast interested in collaboration, or a team looking for strategic insights, I’d love to connect and explore opportunities to create value together.
 
 ## Let’s Connect  
-- **LinkedIn**: [[Nicholas]([url](https://www.linkedin.com/in/nicholas-rico-gauthier-97755a4b/))]  
+- **LinkedIn**: [https://www.linkedin.com/in/nicholas-rico-gauthier-97755a4b/](url)
 - **Email**: nickrgauthier@gmail.com  
 
 Feel free to reach out to discuss analytics, SalesOps, or exciting projects—I’m always up for a conversation!
