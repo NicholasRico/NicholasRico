@@ -1,27 +1,34 @@
-# Welcome to Nicholas's SalesOps Analytics Playground! 🚀
+# Nicholas Rico | Sales Operations & Analytics Leader  
 
-Hey there, fellow data enthusiast! 👋 Welcome to my corner of the internet where numbers come to life and charts dance with insights. This GitHub repository isn't just about lines of code and colorful visuals; it's a playground where career development meets innovation!
+Welcome to my GitHub! I’m a data-driven Sales Operations professional with over 10 years of experience transforming complex data into strategic insights for global organizations in e-commerce and biotechnology. This repository highlights my projects, technical expertise, and passion for analytics, business intelligence, and process optimization.
 
-## About Me 🤓
+## About Me  
+I specialize in designing impactful BI solutions, streamlining sales processes, and delivering actionable insights to C-suite leaders and cross-functional teams. With a strong foundation in Tableau, SQL, Power BI, and Python, I’ve led initiatives that enhance data integrity, boost forecasting accuracy, and drive revenue growth. Explore my work to see how I blend analytics with business strategy to solve real-world challenges.
 
-I'm Nicholas, a seasoned Sales Operations Maestro with a knack for transforming data chaos into strategic goldmines. From crafting dazzling dashboards to predicting market trends, I've worn many hats in the realm of analytics.
+## Key Skills  
+- **Data Visualization & BI**: Tableau (Desktop, Prep, Server), Power BI, QlikView, Xactly, Salesforce CRM  
+- **Programming**: SQL, Python (NumPy, Pandas), Excel (PowerPivot)  
+- **Expertise**: Sales Forecasting, Demand Planning, Data Integrity, Dashboard Development, Process Automation  
+- **Certifications**: Python for Everybody (University of Michigan), Public Speaking (Dale Carnegie)  
 
-## What's Inside? 📦
+## Featured Projects  
+Here’s a snapshot of what you’ll find in this repository:  
+- **Real-Time Revenue Dashboards**: Developed a Tableau BI platform integrated with ERP systems for real-time revenue tracking, enhancing data accuracy and visibility.  
+- **NIH Funding API**: Built a Python-based reporting tool enabling users to query NIH funding data, providing clear visibility into new and existing grants.  
+- **Forecasting Models**: Created Python scripts showcasing multiple revenue and data forecasting techniques, with ongoing enhancements for broader applications.  
 
-In this repository, you'll find a treasure trove of projects showcasing my expertise in sales analytics, demand planning, and business intelligence. Dive into interactive dashboards, predictive models, and data-driven insights that paint a vivid picture of my skills and passions.
+Check out my repositories for code samples, dashboards, and detailed documentation!
 
-## Why Am I Here? 🚀
+## Professional Highlights  
+- **Manager, Sales Operations Analytics @ Akoya Biosciences** (2021–Present): Directed BI platform development, reduced data processing time by 40%, and increased sales productivity by 25%.  
+- **Sr. Demand Planner @ SharkNinja** (2019–2021): Enhanced forecasting accuracy by 10% and supply chain efficiency by 40%.  
+- **Sr. Sales Analyst @ SharkNinja** (2016–2019): Automated workflows in QlikView, saving 120+ hours monthly.  
 
-This page isn't just about sharing my work; it's a beacon for collaboration, innovation, and new opportunities! Whether you're a fellow data wizard seeking inspiration or a potential employer on the lookout for talent, I'm thrilled to connect and explore exciting ventures together.
+## Why This Space?  
+This GitHub isn’t just a portfolio—it’s a hub for collaboration and innovation. Whether you’re a recruiter seeking a proven analytics leader, a data enthusiast interested in collaboration, or a team looking for strategic insights, I’d love to connect and explore opportunities to create value together.
 
-## Let's Connect! 🌐
+## Let’s Connect  
+- **LinkedIn**: [[Nicholas]([url](https://www.linkedin.com/in/nicholas-rico-gauthier-97755a4b/))]  
+- **Email**: nickrgauthier@gmail.com  
 
-Ready to embark on a data-driven journey? Reach out, collaborate, and let's create something remarkable together! 
-
-Thanks for stopping by
-
-
-<!---
-NicholasRico/NicholasRico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to reach out to discuss analytics, SalesOps, or exciting projects—I’m always up for a conversation!
