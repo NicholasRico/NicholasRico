@@ -1,6 +1,6 @@
 # Nicholas Rico | Sales Operations & Analytics Leader  
 
-Welcome to my GitHub! I’m a data-driven Sales Operations professional with over 10 years of experience transforming complex data into strategic insights for global organizations in e-commerce and biotechnology. This repository highlights my projects, technical expertise, and passion for analytics, business intelligence, and process optimization.
+Welcome to my GitHub! I’m a data-driven Sales Operations professional with over 12 years of experience transforming complex data into strategic insights for global organizations in e-commerce and biotechnology. This repository highlights my projects, technical expertise, and passion for analytics, business intelligence, and process optimization.
 
 ## About Me  
 I specialize in designing impactful BI solutions, streamlining sales processes, and delivering actionable insights to C-suite leaders and cross-functional teams. With a strong foundation in Tableau, SQL, Power BI, and Python, I’ve led initiatives that enhance data integrity, boost forecasting accuracy, and drive revenue growth. Explore my work to see how I blend analytics with business strategy to solve real-world challenges.
