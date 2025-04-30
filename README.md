@@ -24,9 +24,6 @@ Check out my repositories for code samples, dashboards, and detailed documentati
 - **Sr. Demand Planner @ SharkNinja** (2019–2021): Enhanced forecasting accuracy by 10% and supply chain efficiency by 40%.  
 - **Sr. Sales Analyst @ SharkNinja** (2016–2019): Automated workflows in QlikView, saving 120+ hours monthly.  
 
-## Why This Space?  
-This GitHub isn’t just a portfolio—it’s a hub for collaboration and innovation. Whether you’re a recruiter seeking a proven analytics leader, a data enthusiast interested in collaboration, or a team looking for strategic insights, I’d love to connect and explore opportunities to create value together.
-
 ## Let’s Connect  
 - **LinkedIn**: [https://www.linkedin.com/in/nicholas-rico-gauthier-97755a4b/](url)
 - **Email**: nickrgauthier@gmail.com  
